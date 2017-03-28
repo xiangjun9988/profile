@@ -63,15 +63,15 @@
 ### 作品展示
 ```
 自由职业[部分]：
-新加坡Grab兼职：[http://grab.demopai.com/index.html]
-艺考生兼职：[https://www.artlets.cn/]
-现货宝兼职：[http://test18189.tradingnow.cn/]
+新加坡Grab兼职：(http://grab.demopai.com/index.html)
+艺考生兼职：(https://www.artlets.cn/)
+现货宝兼职：(http://test18189.tradingnow.cn/)
 
 兴趣研发：
-大象课堂：[http://www.daxiangclass.com/]
-自考突击：[http://www.daxiangclass.com/Home/Zk/course.html]
-小音机器人：[http://www.daxiangclass.com/Home/Multi/test01]
+大象课堂：(http://www.daxiangclass.com/)
+自考突击：(http://www.daxiangclass.com/Home/Zk/course.html)
+小音机器人：(http://www.daxiangclass.com/Home/Multi/test01)
 
 早年学习作品：
-[http://www.demopai.com/zp/index.html]
+(http://www.demopai.com/zp/index.html)
 ```
