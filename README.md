@@ -57,7 +57,7 @@
 项目实践过技术：
 [Java | PHP ]、[HTML | CSS  |  JS ]、[jQuery | Bootstrap | ExtJS | DWZ | jQueryUI]、[Node之Express]  
 未熟练但会用技术：
- [前端框架：Angular4 | Vue2 | React2]、[自动化：grunt]、 [工程化：Gulp | Webpack2 | Rollup ]
+ [前端框架：Angular4 | Vue2 | React2]、[自动化：grunt]、 [工程化和性能优化：Gulp | Webpack2 | Rollup ]
 详情: https://shixian.com/consultants/12622
 ```
 
